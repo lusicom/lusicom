@@ -1,5 +1,6 @@
-### Hi guest,welcome to my profile 👋
-My name is Lucy
+**Hi guest**, welcome to my profile 👋
+
+### My name is Lucy
 
 Here is a short self-description that will help you being familiar with me.
 
