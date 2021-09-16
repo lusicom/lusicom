@@ -10,6 +10,3 @@ Here are some self-description help you being familiar with me.
 [![Gmail Badge](https://img.shields.io/badge/-lusicomgolub@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lusicomgolub@gmail.com)](mailto:lusicomgolub@gmail.com)
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lusicom)](https://github.com/anuraghazra/github-readme-stats)  
-  
-  ---
-⭐️ From [lusicom](https://github.com/lusicom)
