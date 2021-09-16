@@ -16,8 +16,4 @@ Here are some self-description help you being familiar with me.
 [![Linkedin Badge](https://img.shields.io/badge/-LucyHolub-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucy-holub-009837116/)](https://www.linkedin.com/in/lucy-holub-009837116/)
 [![Gmail Badge](https://img.shields.io/badge/-lusicomgolub@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lusicomgolub@gmail.com)](mailto:lusicomgolub@gmail.com)
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lusicom)] 
-
-<a href="https://github.com/lusicom/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaf96&layout=compact" />
-</a>
+[!Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lusicom)
