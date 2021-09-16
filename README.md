@@ -1,7 +1,7 @@
 ### Hi guest,welcome to my profile 👋
 My name is Lucy
 
-Here are some self-description help you being familiar with me.
+Here is a short self-description that will help you being familiar with me.
 
 ![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-Android-brightgreen)
