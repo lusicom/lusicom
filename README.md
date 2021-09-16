@@ -11,7 +11,7 @@ Here are some self-description help you being familiar with me.
    
 Following is my github stats
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liuyunfz)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lusicom)](https://github.com/anuraghazra/github-readme-stats)  
   
   ---
-⭐️ From [liuyunfz](https://github.com/lusicom)
+⭐️ From [lusicom](https://github.com/lusicom)
