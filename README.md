@@ -7,7 +7,7 @@ Here are some self-description help you being familiar with me.
 ![focus](https://img.shields.io/badge/focus-Android-brightgreen)
 ![living](https://img.shields.io/badge/living-TelAviv-3c9)
 
-- 🏫 I’m a Masa student in Israel
+- 🏫 I’m a Masa Tech student
 - 💪 I’m currently actively learning and obsessed with Android apps creation
 - 🇺🇦 Born in Ukraine
 - 🇮🇱 Live in Israel 
