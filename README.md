@@ -5,7 +5,7 @@ Here are some self-description help you being familiar with me.
 
 ![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-Android-brightgreen)
-![living](https://img.shields.io/badge/living-Tel Aviv-3c9)
+![living](https://img.shields.io/badge/living-Tel-Aviv-3c9)
 
 - 🏫 I’m a Masa student in Israel.
 - 💪 I’m currently actively learning and obsessed with Android apps creation.
