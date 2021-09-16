@@ -19,5 +19,5 @@ Here are some self-description help you being familiar with me.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lusicom)] 
 
 <a href="https://github.com/lusicom/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusicom=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaf96&layout=compact" />
 </a>
