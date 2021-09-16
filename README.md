@@ -1,4 +1,4 @@
-**Hi guest**, welcome to my profile 👋
+###Hi guest, welcome to my profile 👋
 
 ### My name is Lucy
 
