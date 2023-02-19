@@ -8,7 +8,7 @@ Here is a short self-description that will help you being familiar with me.
 ![focus](https://img.shields.io/badge/focus-Android-brightgreen)
 ![living](https://img.shields.io/badge/living-Poland-3c9)
 
-- 💪 I’m currently actively learning and obsessed with Android apps creation
+- 💪 I’m actively learning and obsessed with Android apps creation
 - 🇺🇦 Born in Ukraine
 - 🇮🇱 Live in Poland 
 - 📫 Reach me by any of following means: 
